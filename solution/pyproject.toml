@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "solution"
+version = "0.1.0"
+description = ""
+authors = ["Diego Miranda <diego.miranda02@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.111.1"
+uvicorn = "^0.30.3"
+sqlalchemy = "^2.0.31"
+pydantic = "^2.8.2"
+requests = "^2.32.3"
+pandas = "^2.2.2"
+workalendar = "^17.0.0"
+feast = "^0.39.1"
+scikit-learn = "^1.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

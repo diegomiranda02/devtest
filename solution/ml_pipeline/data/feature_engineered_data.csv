@@ -1,0 +1,4 @@
+timestamp_demand,id_demand,floor_demand,timestamp_state,id_state,floor_state,vacant,second,minute,hour,day,day_of_week,month,year,is_working_day,is_holiday,source_ip
+2024-07-21 20:09:30,2.0,6.0,2024-07-21 20:09:30,2.0,3.0,0.0,30,9,20,21,6,7,2024,False,False,0
+2024-07-21 20:09:40,3.0,7.0,2024-07-21 20:09:40,4.0,5.0,0.0,40,9,20,21,6,7,2024,False,False,0
+2024-07-21 20:09:50,3.0,7.0,2024-07-21 20:09:50,4.0,5.0,0.0,50,9,20,21,6,7,2024,False,False,0
